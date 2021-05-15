@@ -1,0 +1,41 @@
+name: flutter_audio_list
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  assets_audio_player: ^3.0.3+3
+
+  path_provider_ex: ^1.0.1
+  path_provider: ^2.0.1
+
+  flutter_file_manager: ^0.2.0
+
+
+  permission_handler: ^5.0.1+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - gif/
+  fonts:
+    - family:  AssetAudioPlayer
+      fonts:
+        - asset: fonts/AssetAudioPlayer.ttf
