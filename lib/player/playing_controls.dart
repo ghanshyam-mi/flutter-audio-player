@@ -116,18 +116,6 @@ class PlayingControls extends StatelessWidget {
         SizedBox(
           width: 45,
         ),
-        // if (onStop != null)
-        //   NeumorphicButton(
-        //     style: NeumorphicStyle(
-        //       boxShape: NeumorphicBoxShape.circle(),
-        //     ),
-        //     padding: EdgeInsets.all(16),
-        //     onPressed: onStop,
-        //     child: Icon(
-        //       AssetAudioPlayerIcons.stop,
-        //       size: 32,
-        //     ),
-        //   ),
       ],
     );
   }

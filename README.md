@@ -1,16 +1,10 @@
 # flutter_audio_list
 
-A new Flutter application.
 
-## Getting Started
+- Take one recyclerview having an audio(song) list. (take at least 15 audios) (can use local audio or audio URLs)
+- In the row file, give the option to play/pause the audio.
+- At a time, it should play only one audio.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- When an app is in the background, it must continue playback.
+- In the row file of audio, provide one full-width background view with some light colour by default, as audio playback continues, show it’s progress in a background of that row by gradually filling its background with dark colour.
+- When you play the audio which was paused before, it should resume from that time(progress) only for the session.

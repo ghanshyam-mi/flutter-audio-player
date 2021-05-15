@@ -31,10 +31,6 @@ class SongsSelector extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      // style: NeumorphicStyle(
-      //   depth: -8,
-      //   boxShape: NeumorphicBoxShape.roundRect(BorderRadius.circular(9)),
-      // ),
       margin: EdgeInsets.all(8),
       padding: EdgeInsets.all(8),
       child: Column(

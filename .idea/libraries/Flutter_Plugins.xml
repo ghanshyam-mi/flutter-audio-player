@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1" />
+      <root url="file://$USER_HOME$/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/assets_audio_player_web-3.0.3+3" />
+      <root url="file://$USER_HOME$/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0" />
+      <root url="file://$USER_HOME$/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-5.1.0+2" />
+      <root url="file://$USER_HOME$/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/assets_audio_player-3.0.3+3" />
+      <root url="file://$USER_HOME$/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1" />
+      <root url="file://$USER_HOME$/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ex-1.0.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
